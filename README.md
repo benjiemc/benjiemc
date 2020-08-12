@@ -1,5 +1,8 @@
 # benjiemc
-## Hi there, I am a biomedical engineering student at the University of British Columbia👋
+## Hi there, I am a biomedical engineering student at the University of British Columbia👋 
+
+
+![LinkedIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F157910%2Flinkedin&psig=AOvVaw3Spq3lhGqLBy03jfR_FZYo&ust=1597334107342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjJ0LKDlusCFQAAAAAdAAAAABAI)
 
 <!--
 **benjiemc/benjiemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
