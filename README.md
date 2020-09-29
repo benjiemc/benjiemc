@@ -8,14 +8,19 @@
 <img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="" />
 <img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="" />
 
+</br>
+</br>
+
 ## Languages and Tools
-<img alt="Python" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Git" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Python" align="left" width="26px" style="margin-right:15px" src="assets/python" />
+<img alt="Git" align="left" width="26px" style="margin-right:15px" src="assets/git" />
+<img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="assets/html" />
+<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="assets/js" />
+<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="assets/nodejs" />
+<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="assets/markdown" />
+<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="assets/vscode" />
+
+</br>
 <!--
 **benjiemc/benjiemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
