@@ -1,9 +1,21 @@
-# benjiemc
-## Hi there, I am a biomedical engineering student at the University of British Columbia👋 
+# Hi there, I am Benjie 👋
+- 📓 Biomedical engineering student at the University of British Columbia
+- 🚀 Molecular Simulations Co-Op at [Zymeworks Inc](https://www.zymeworks.com/)
 
 
-![LinkedIN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F157910%2Flinkedin&psig=AOvVaw3Spq3lhGqLBy03jfR_FZYo&ust=1597334107342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjJ0LKDlusCFQAAAAAdAAAAABAI)
+## Connect with me
+<img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="" />
 
+## Languages and Tools
+<img alt="Python" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Git" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="" />
 <!--
 **benjiemc/benjiemc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
