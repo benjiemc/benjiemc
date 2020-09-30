@@ -1,6 +1,6 @@
 # Hi there, I am Benjie 👋
 - 📓 Biomedical engineering student at the University of British Columbia
-- 🚀 Molecular Simulations Co-Op at [Zymeworks Inc](https://www.zymeworks.com/)
+- 🚀 Molecular Simulations Co-Op at [Zymeworks Inc.](https://www.zymeworks.com/)
 
 
 ## Connect with me
