@@ -28,3 +28,5 @@
 <img alt="Vim" align="left" width="26px" style="margin-right:15px" src="assets/vim.png" />
 
 </br>
+
+[![Benjie's Github Stats](https://github-readme-stats.vercel.app/api?username=benjiemc)](https://github.com/anuraghazra/github-readme-stats)
