@@ -4,9 +4,15 @@
 
 
 ## Connect with me
-<img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="linkedin.png" />
-<img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="gitlab.png" />
-<img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="twitter.png" />
+<a href="https://www.linkedin.com/in/benjamin-mcmaster/">
+    <img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="assets/linkedin.png" />
+</a>
+<a href="https://gitlab.com/benjiemc">
+    <img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="assets/gitlab.png" />
+</a>
+<a href="https://twitter.com/BenjieMcmaster">
+    <img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="assets/twitter.png" />
+</a>
 
 </br>
 </br>
@@ -36,4 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: https://www.linkedin.com/in/benjamin-mcmaster/
