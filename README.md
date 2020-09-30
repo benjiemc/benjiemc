@@ -4,21 +4,22 @@
 
 
 ## Connect with me
-<img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="" />
-<img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="" />
+<img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="linkedin.png" />
+<img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="gitlab.png" />
+<img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="twitter.png" />
 
 </br>
 </br>
 
 ## Languages and Tools
-<img alt="Python" align="left" width="26px" style="margin-right:15px" src="assets/python" />
-<img alt="Git" align="left" width="26px" style="margin-right:15px" src="assets/git" />
-<img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="assets/html" />
-<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="assets/js" />
-<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="assets/nodejs" />
-<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="assets/markdown" />
-<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="assets/vscode" />
+<img alt="Python" align="left" width="26px" style="margin-right:15px" src="assets/python.png" />
+<img alt="Git" align="left" width="26px" style="margin-right:15px" src="assets/git.png" />
+<img alt="HTML5" align="left" width="26px" style="margin-right:15px" src="assets/html.png" />
+<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="assets/js.png" />
+<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="assets/nodejs.png" />
+<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="assets/markdown.png" />
+<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="assets/vscode.png" />
+<img alt="Vim" align="left" width="26px" style="margin-right:15px" src="assets/vim.png" />
 
 </br>
 <!--
