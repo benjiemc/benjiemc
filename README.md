@@ -29,14 +29,14 @@
 
 </br>
 </br>
-[1]: https://www.python.org/
-[2]: https://nodejs.org/
-[3]: https://www.javascript.com/
+[4]: https://www.python.org/
+[5]: https://nodejs.org/
+[6]: https://www.javascript.com/
 
-[5]: https://git-scm.com/
+[7]: https://git-scm.com/
 
-[7]: https://code.visualstudio.com/
-[8]: https://www.vim.org/
+[8]: https://code.visualstudio.com/
+[9]: https://www.vim.org/
 
 
 [![Benjie's Github Stats](https://github-readme-stats.vercel.app/api?username=benjiemc)](https://github.com/anuraghazra/github-readme-stats)
