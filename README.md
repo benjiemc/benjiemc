@@ -1,8 +1,9 @@
 # Hi there, I am Benjie 👋
-- 📓 Biomedical engineering student at the University of British Columbia
 
+📓 Biomedical engineering student at the University of British Columbia
 
 ## Connect with me
+
 <a href="https://www.linkedin.com/in/benjamin-mcmaster/">
     <img alt="LinkedIn" align="left" width="26px" style="margin-right:15px" src="assets/linkedin.png" />
 </a>
@@ -17,6 +18,7 @@
 </br>
 
 ## Languages and Tools
+
 <a href="https://www.python.org/"><img alt="Python" align="left" width="26px" style="margin-right:15px" src="assets/python.png" /></a>
 <a href="https://nodejs.org/"><img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="assets/nodejs.png" /></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="assets/js.png" /></a>
@@ -28,6 +30,5 @@
 
 </br>
 </br>
-
 
 [![Benjie's Github Stats](https://github-readme-stats.vercel.app/api?username=benjiemc)](https://github.com/anuraghazra/github-readme-stats)
