@@ -9,7 +9,7 @@
 <a href="https://gitlab.com/benjiemc">
     <img alt="Gitlab" align="left" width="26px" style="margin-right:15px" src="assets/gitlab.png" />
 </a>
-<a href="https://twitter.com/BenjieMcmaster">
+<a href="https://twitter.com/benjie_mcmaster">
     <img alt="Twitter" align="left" width="26px" style="margin-right:15px" src="assets/twitter.png" />
 </a>
 
