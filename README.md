@@ -1,6 +1,7 @@
 # Hi there, I am Benjie 👋
 
-📓 Biomedical engineering student at the University of British Columbia
+📓 DPhil Candidate at the University of Oxford  
+🎓 Biomedical engineering at the University of British Columbia
 
 ## Connect with me
 
