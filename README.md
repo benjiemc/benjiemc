@@ -1,7 +1,6 @@
 # Hi there, I am Benjie 👋
 
 📓 DPhil Candidate at the University of Oxford \
-🚀 The Alan Turing Institute Enrichment scheme PhD student \
 🎓 Biomedical engineering at the University of British Columbia
 
 ## Connect with me
