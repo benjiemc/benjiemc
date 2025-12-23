@@ -28,5 +28,3 @@
 
 </br>
 </br>
-
-[![Benjie's Github Stats](https://github-readme-stats.vercel.app/api?username=benjiemc)](https://github.com/anuraghazra/github-readme-stats)
